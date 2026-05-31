@@ -21,6 +21,11 @@ LearnPlaywrightBatch2x/
 │   ├── 08_Comments.js
 │   ├── JavaScript_Identifiers_Guide.js  # Comprehensive naming guide
 │   └── VS_Code_Keyboard_Shortcuts.md
+├── Chapter_04_Javascript_Concepts/
+│   ├── 10_Functions.js           # Function definition and calling
+│   ├── 11_var_explained.js       # var scope and behavior
+│   ├── 12_let_explained.js       # let re-assignment and block scope
+│   └── 13_const_explained.js     # const immutability
 ├── package.json
 └── README.md
 ```
@@ -67,6 +72,7 @@ node Chapter_01_Basics/01_Basics.js
 | **Chapter 01** | JavaScript Basics | `01_Basics.js`, `02_JS.js`, `03_JS_Verify_Setup.js`, `04_Hotcode.js` |
 | **Chapter 02** | Core JavaScript Concepts | `05_JS_Basics.js` |
 | **Chapter 03** | Identifiers, Literals & Comments | `06_Identifier_Rules.js`, `07_Identifier.js`, `08_Comments.js`, `JavaScript_Identifiers_Guide.js` |
+| **Chapter 04** | Functions & Variable Declarations | `10_Functions.js`, `11_var_explained.js`, `12_let_explained.js`, `13_const_explained.js` |
 
 > **Note:** Additional chapters on Playwright-specific topics (browser automation, selectors, assertions, reporting, CI/CD integration, etc.) will be added as the course progresses.
 
