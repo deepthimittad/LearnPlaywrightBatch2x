@@ -27,12 +27,15 @@ LearnPlaywrightBatch2x/
 │   ├── 12_let_explained.js       # let re-assignment and block scope
 │   └── 13_const_explained.js     # const immutability
 ├── Chapter_05_Literal.js/
-│   ├── 20_Literal.js             # Literals overview
-│   ├── 21_null_undefined.js      # null vs undefined
-│   ├── 22_null.js                # null literal
-│   ├── 23_Undefined.js           # undefined literal
-│   ├── 24_Literal_ALL.js         # All literals summary
-│   └── 25_Literal_Number_All.js  # Number type in JavaScript
+│   ├── 20_Literal.js                  # Literals overview
+│   ├── 21_null_undefined.js           # null vs undefined
+│   ├── 22_null.js                     # null literal
+│   ├── 23_Undefined.js                # undefined literal
+│   ├── 24_Literal_ALL.js              # All literals summary
+│   ├── 25_Literal_Number_All.js       # Number type in JavaScript
+│   ├── 26_String.js                   # String literals (single & double quotes)
+│   ├── 27_Template_Literal.js         # Template literals with interpolation
+│   └── 28_Backtick_Single_Double_String.js  # Comparison of quotes and backticks
 ├── package.json
 └── README.md
 ```
@@ -80,7 +83,7 @@ node Chapter_01_Basics/01_Basics.js
 | **Chapter 02** | Core JavaScript Concepts | `05_JS_Basics.js` |
 | **Chapter 03** | Identifiers, Literals & Comments | `06_Identifier_Rules.js`, `07_Identifier.js`, `08_Comments.js`, `JavaScript_Identifiers_Guide.js` |
 | **Chapter 04** | Functions & Variable Declarations | `10_Functions.js`, `11_var_explained.js`, `12_let_explained.js`, `13_const_explained.js` |
-| **Chapter 05** | Literals — null, undefined & Number | `20_Literal.js`, `21_null_undefined.js`, `22_null.js`, `23_Undefined.js`, `24_Literal_ALL.js`, `25_Literal_Number_All.js` |
+| **Chapter 05** | Literals — null, undefined, Number & String | `20_Literal.js`, `21_null_undefined.js`, `22_null.js`, `23_Undefined.js`, `24_Literal_ALL.js`, `25_Literal_Number_All.js`, `26_String.js`, `27_Template_Literal.js`, `28_Backtick_Single_Double_String.js` |
 
 > **Note:** Additional chapters on Playwright-specific topics (browser automation, selectors, assertions, reporting, CI/CD integration, etc.) will be added as the course progresses.
 
